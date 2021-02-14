@@ -15,7 +15,7 @@ The first analysis compared outcomes based on launch date. To visually represent
 
 ### Analysis of Outcomes Based on Goals
 The second analysis compared outcomes and goals. Goal amounts were grouped into $5000 ranges, and the percentage of successful, failed, and canceled campaigns was calculated for each range.  
-![outcomes_based_on_goals](images/outcomes_vs_goals)
+![outcomes_based_on_goals](images/outcomes_vs_goals.png)
 
 ### Challenges and Difficulties Encountered
 
