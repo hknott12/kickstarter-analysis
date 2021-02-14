@@ -3,7 +3,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This project analyzed data from various Kickstarter fundraising campaigns to help Louise, who is interested in launching her own fundraising project for a play she is working on. Data were organized in this excel spreadsheet: ![kickstarter](
+This project analyzed data from various Kickstarter fundraising campaigns to help Louise, who is interested in launching her own fundraising project for a play she is working on. Data were organized in this excel spreadsheet: ![kickstarter](Kickstarter_Challenge.xlsx)
 
 ### Purpose
 The purpose of this project was to provide Louise with insights about how to successfully launch a fundraising campaign based on data from past fundraising campaigns. To meet this purpose, the data was analyzed by examining the outcomes of campaigns based on launch date and goals. 
