@@ -14,7 +14,8 @@ The purpose of this project was to provide Louise with insights about how to suc
 The first analysis compared outcomes based on launch date. To visually represent this, a line graph was made by grouping month of launch to number of outcomes for successful, failed, or canceled campaigns, represented here: ![theater_outcomes_vs_launch](images/theater_outcomes_vs_launch.png)
 
 ### Analysis of Outcomes Based on Goals
-The second analysis compared outcomes and goals. 
+The second analysis compared outcomes and goals. Goal amounts were grouped into $5000 ranges, and the percentage of successful, failed, and canceled campaigns was calculated for each range.  
+![outcomes_based_on_goals](images/outcomes_vs_goals)
 
 ### Challenges and Difficulties Encountered
 
