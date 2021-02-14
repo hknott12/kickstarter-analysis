@@ -11,7 +11,7 @@ The purpose of this project was to provide Louise with insights about how to suc
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The first analysis compared outcomes based on launch date. To visually represent this, a line graph was made by grouping month of launch to number of outcomes for successful, failed, or canceled campaigns, represented here: ![theater_outcomes_vs_launch](kickstarter-analysis/to/theater_outcomes_vs_launch.png)
+The first analysis compared outcomes based on launch date. To visually represent this, a line graph was made by grouping month of launch to number of outcomes for successful, failed, or canceled campaigns, represented here: ![theater_outcomes_vs_launch](path/to/theater_outcomes_vs_launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The second analysis compared outcomes and goals. 
