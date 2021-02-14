@@ -10,7 +10,7 @@ The purpose of this project was to provide Louise with insights about how to suc
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch Date---
 The first analysis compared campaign outcomes (successful, failed, or canceled) to the month the campaign was launched. Because Louise is interested in launching a fundraiser for her play, data were limited to outcomes for theater campaigns. Data were first organized in a table. Then, for visual representation, a line graph was made by grouping month of launch to number of outcomes for successful, failed, or canceled campaigns.
 ![theater_outcomes_vs_launch](images/theater_outcomes_vs_launch.png)
 
@@ -18,18 +18,18 @@ The first analysis compared campaign outcomes (successful, failed, or canceled) 
 The second analysis compared the campaign outcomes to the goal amount of money to be fundraised. Goal amounts were grouped into $5000 ranges, and the percentage of successful, failed, and canceled campaigns was calculated for each range. Similarly to the previous analysis, data was limited to that of plays because of Louise's interest in fundraising for a play. To provide a visual representation, a line graph was made with a line each for successful, failed, and canceled campaigns. 
 ![outcomes_based_on_goals](images/outcomes_vs_goals.png)
 
-### Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered---
 One challenge encountered throughout the project was finding the source of errors in all aspects of the analysis: writing formulas in excel, preparing graphs, and creating charts all had the potential for mistakes. One thing that I found helpful in identifying where things went wrong is in 'retracing my steps' in a way, and going back step to step to see where mistakes may have occurred. 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date?---
 The first conclusion that can be drawn about Outcomes based on Launch Date is that May is the most successful month of the year to launch a campaign; it by far had the most successful campaigns of any month of the year. Another conclusion that can be drawn is that December and January were the least successful and least popular months for launching campaigns; they had fewer campaigns overall, and of those, fewer were successful.  
 
-- What can you conclude about the Outcomes based on Goals?
-A conclusion that can be drawn from outcomes based on goals is that, overall, lower goals are more likely to be successful. 
+- What can you conclude about the Outcomes based on Goals?---
+A conclusion that can be drawn from outcomes based on goals is that, overall, lower goals are more likely to be successful. This pattern is especialy consistent for amounts below $25,000: there is more variation in the larger amounts, possibly because there were far fewer campaigns setting large amounts of money as their goals. 
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
-Another table that we could create 
+- What are some limitations of this dataset?---
+While this dataset has a the benefits of a large sample size and large amount of data, it still has limitations. One limitation is that there are many factors that contribute to the success of a Kickstarter campaign, some of which may include more qualitative factors that contribute to the success of failure of a campaign. 
+- What are some other possible tables and/or graphs that we could create?---
+Another table and graph that could be created for Louise is one that compares the month of launch to the average amount of money raised by each theater fundraiser instead of the success/failure of the campaign. A bar graph could be created showing the mean amount fundraised each month, with one bar representing each month. 
